@@ -12,7 +12,7 @@
 	<artifactId>ems</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ems</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Simple Demo project for Spring Boot </description>
 	<url/>
 	<licenses>
 		<license/>
